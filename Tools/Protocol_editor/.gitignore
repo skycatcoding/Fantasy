@@ -1,0 +1,5 @@
+__pycache__/
+.backups/
+.editor-state.json
+.naming-prefixes.json
+editor-error.log
