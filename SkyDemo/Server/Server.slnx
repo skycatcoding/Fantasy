@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../../Fantasy.Packages/Fantasy.Net/Fantasy.Net.csproj" />
+  <Project Path="APP/Entity/Entity.csproj" />
+  <Project Path="APP/Hotfix/Hotfix.csproj" />
+  <Project Path="APP/Main/Main.csproj" />
+</Solution>
